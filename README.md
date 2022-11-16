@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello World, I'm Laurenz Pinder, nice to meet you 👋
 
-<!--
-**laurenzdpinder/laurenzdpinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me:**
 
-Here are some ideas to get you started:
+```javascript
+const laurenz = {
+  nationality: ['brazilian', 'american'],
+  occupation: 'Full Stack Developer',
+  skills: {
+    frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'Context API', 'React Hooks'],
+    backend: ['Node.js', 'Express', 'MySQL', 'Sequelize', 'MongoDB', 'Typescript', 'Docker'],
+    tests: ['RTL', 'Jest', 'Mocha', 'Chai', 'Sinon'],
+  },
+  learning: ['Python', 'Computer Science']
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**GitHub Stats:**
+
+<div align="center">
+  <a href="https://github.com/laurenzdpinder">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laurenzdpinder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurenzdpinder&layout=compact&langs_count=7&theme=dark"/>
+</div>
