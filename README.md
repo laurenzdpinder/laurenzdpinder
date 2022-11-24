@@ -5,6 +5,7 @@
 ```javascript
 const laurenz = {
   nationality: ['Brazilian', 'American'],
+  languages: ['Portuguese', 'English', 'Spanish'],
   occupation: 'web developer',
   skills: {
     frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'Context API', 'React Hooks'],
