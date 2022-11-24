@@ -4,14 +4,14 @@
 
 ```javascript
 const laurenz = {
-  nationality: ['brazilian', 'american'],
+  nationality: ['Brazilian', 'American'],
   occupation: 'web developer',
   skills: {
     frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'Context API', 'React Hooks'],
     backend: ['Node.js', 'Express', 'MySQL', 'Sequelize', 'MongoDB', 'Typescript', 'Docker'],
     tests: ['RTL', 'Jest', 'Mocha', 'Chai', 'Sinon'],
   },
-  learning: ['Python', 'Computer Science']
+  learning: ['Python', 'Computer Science', 'Polish']
 }
 ```
 
