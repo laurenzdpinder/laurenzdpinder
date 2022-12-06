@@ -12,7 +12,7 @@ const laurenz = {
     backend: ['Node.js', 'Express', 'MySQL', 'Sequelize', 'MongoDB', 'Typescript', 'Docker'],
     tests: ['RTL', 'Jest', 'Mocha', 'Chai', 'Sinon'],
   },
-  learning: ['Python', 'Computer Science', 'Polish']
+  learning: ['Python', 'fundamentals of computer science', 'Polish']
 }
 ```
 
