@@ -6,13 +6,13 @@
 const laurenz = {
   nationality: ['Brazilian', 'American'],
   languages: ['Portuguese', 'English', 'Spanish'],
-  occupation: 'web developer',
+  occupation: 'Full Stack Developer',
   skills: {
-    frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'Context API', 'React Hooks'],
-    backend: ['Node.js', 'Express', 'MySQL', 'Sequelize', 'MongoDB', 'Typescript', 'Docker'],
+    frontend: ['HTML', 'CSS', 'Bootstrap', 'Element UI', 'JavaScript', 'Vue', 'React', 'Redux', 'Context API', 'React Hooks'],
+    backend: ['Node.js', 'Express', 'Typescript', 'MySQL', 'Sequelize', 'MongoDB', 'Mongoose', 'Docker'],
     tests: ['RTL', 'Jest', 'Mocha', 'Chai', 'Sinon'],
   },
-  learning: ['Python', 'Fundamentals of Computer Science', 'Polish']
+  learning: ['Polish', 'Nest.js']
 }
 ```
 
