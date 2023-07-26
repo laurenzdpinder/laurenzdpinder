@@ -8,7 +8,7 @@ const laurenz = {
   languages: ['Portuguese', 'English', 'Spanish'],
   occupation: 'Full Stack Developer',
   skills: {
-    frontend: ['HTML', 'CSS', 'Bootstrap', 'Element UI', 'JavaScript', 'Vue', 'React', 'Redux', 'Context API', 'React Hooks'],
+    frontend: ['HTML', 'CSS', 'Bootstrap', 'Element UI', 'JavaScript', 'Vue', 'React', 'Redux', 'Context API', 'Hooks'],
     backend: ['Node.js', 'Express', 'Typescript', 'MySQL', 'Sequelize', 'MongoDB', 'Mongoose', 'Docker'],
     tests: ['RTL', 'Jest', 'Mocha', 'Chai', 'Sinon'],
   },
